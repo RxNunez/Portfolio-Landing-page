@@ -1,3 +1,9 @@
+img {
+  width: 275px;
+  height: 300px;
+  display: block;
+}
+
 h1 {
   color: lime;
   text-align: center;
@@ -6,6 +12,8 @@ h1 {
 h2 {
   font-style: italic;
   text-align: left;
+  font-weight: bold;
+  color: lime;
 }
 
 p {
@@ -23,18 +31,13 @@ ul {
   color: purple
 }
 
-.images {
-  image-resolution: snap;
-
-}
-
 .important {
   font-style: italic;
   color: orange;
 }
 
 .column {
-  width: 500px;
+  width: 600px;
   float: left;
 
 }
@@ -44,4 +47,17 @@ ul {
   padding: 4px;
   margin: 6px;
   background-color: orange;
+}
+
+.images {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-left:
+}
+
+.jumbotron {
+  font-weight: bold;
+  color: blue;
+
 }
