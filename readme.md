@@ -13,7 +13,7 @@ _{The site was developed with basic imagery and lists with fun facts, personal d
 * _Create a local version of my-first-webpage_
 * _clone repository from github at url: https://github.com/RxNunez/Portfolio-Landing-page.git
 * _launch index.html file in the browser of choice_
-* _git clone https://github.com/RxNunez/Portfolio-Landing-page.git
+* _gh-pages url https://RxNunez.github.io/Portfolio-Landing-page
 
 
 _{The cloning will create the img source directory with required jpg files, in addition to index.html.}_

@@ -33,7 +33,7 @@ ul {
 
 .important {
   font-style: italic;
-  color: orange;
+  color: lime;
 }
 
 .column {
@@ -46,7 +46,7 @@ ul {
   border: 2px solid lime;
   padding: 4px;
   margin: 6px;
-  background-color: orange;
+  background-color: lightgray;
 }
 
 .images {
@@ -68,5 +68,15 @@ ul {
     background-size:cover;
     background-repeat: no-repeat;
     height: 100%;
-     }
+}
+
+.panel-heading {
+  background-color: lightgray;
+}
+
+.panel-body {
+  background-color: gray;
+}
+
+
 }
